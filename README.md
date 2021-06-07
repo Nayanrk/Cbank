@@ -1,5 +1,5 @@
 # BasicBankingSystem
- Front-end : HTML, CSS, PHP
+ Front-end : HTML, CSS
  Back-end : PHP Database : MySQL
  
 Database contains two Tables- Users Table & Transaction Table
